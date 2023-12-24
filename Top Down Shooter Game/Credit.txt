@@ -1,0 +1,11 @@
+Credit for Assets
+
+* https://rgsdev.itch.io/free-cc0-modular-animated-vector-characters-2d 
+  - Guns
+  - Background
+  - Bullet
+  - Crosshair
+
+* https://thomasgvd.itch.io/top-down-shooter
+  - Player
+  - Enemy

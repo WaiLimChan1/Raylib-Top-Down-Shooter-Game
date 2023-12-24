@@ -1,0 +1,21 @@
+***Game Description***************************** 
+This is a 2D Top Down Shooter Game. The goal is to survive for as long as possible.
+There are three guns, pistol, assault rifle, and shotgun.
+Pick up power ups to upgrade the guns and replenish ammo.
+
+
+***The inputs are***************************** 
+
+***(Camera Control)***
+-arrow keys to move camera
+-L to lock camera
+
+***(Character Control)***
+- W,A,S,D - Character Movement
+- 1 - Pistol
+- 2 - Assault Rifle
+- 3 - Shotgun
+- Left Mouse Button - Shoot
+
+***(Restart)***
+- Space - Play Again
